@@ -67,4 +67,8 @@ Run the application:
 
 ## 🌐 Deployment
 
-Streamlit Community Cloud — deployment pending.
+## 🌐 Live Application
+
+[Launch BankInsight Dashboard](https://bankinsight-megha.streamlit.app/)
+
+Deployed using Streamlit Community Cloud.
